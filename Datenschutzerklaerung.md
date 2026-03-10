@@ -1,4 +1,3 @@
-Datenschutzerklärung – „Trigger Tracker“
 Datenschutzerklärung für die App „Trigger Tracker“
 1. Verantwortlicher
 Verantwortlich für die Datenverarbeitung in dieser App im Sinne der Datenschutz‑Grundverordnung (DSGVO) ist:
