@@ -118,3 +118,121 @@ Darüber hinaus haben Sie das Recht, sich bei einer Datenschutz‑Aufsichtsbehö
 10. Änderungen dieser Datenschutzerklärung
 Ich behalte mir vor, diese Datenschutzerklärung anzupassen, wenn sich die App, eingesetzte Dienste oder die Rechtslage ändern.
 Es gilt jeweils die zum Zeitpunkt der Nutzung aktuelle, in der App bzw. im Store‑Eintrag veröffentlichte Version.
+
+English Version
+
+Hier ist eine schlanke englische Privacy Policy auf Basis deines deutschen Textes (wieder: keine Rechtsberatung, nur Muster).
+
+Privacy Policy for the app “[Name of the App]”
+1. Controller
+The controller responsible for data processing in this app under the GDPR is:
+
+Maximilian Binder
+Queichstraße 26
+76846 Hauenstein
+Germany
+E‑mail: thepraxis@gmx.de
+
+2. General information
+The app “[Name of the App]” is a helper tool for tracking triggers in “Magic: The Gathering” games.
+The app mainly works locally on your device. You do not need to register or create a user account.
+
+Unless stated otherwise below, personal data is only processed as far as necessary to provide the app, to fix errors, to display advertising or to process in‑app purchases.
+
+3. Locally stored data (game state / triggers / decks)
+The app stores game and configuration data (e.g. trigger counters, card selection, settings) only locally on your device.
+I do not store these data on my own servers and do not use them for my own analysis.
+
+You can delete these data at any time by uninstalling the app or – depending on your operating system – by clearing the app data in the system settings.
+The legal basis is Art. 6 (1) (b) GDPR (performance of a contract), as the processing is necessary to provide the app’s functionality.
+
+4. Use of the Scryfall API
+4.1 Purpose
+To display card information the app uses the “Scryfall” API (Scryfall, LLC).
+When card data is requested, calls are sent directly from your device to Scryfall’s servers.
+
+4.2 Scope of processing
+In the course of these API calls, technical connection data (e.g. IP address, time of request, requested resource) is transmitted to Scryfall for technical reasons.
+The app does not send personal data such as your name or e‑mail address to Scryfall.
+
+For more information on Scryfall’s privacy practices, please visit:
+https://scryfall.com/docs/privacy
+​
+
+The legal basis is Art. 6 (1) (b) GDPR (providing the app’s functions) and, where applicable, Art. 6 (1) (f) GDPR (legitimate interest in a functional and up‑to‑date card database).
+
+5. Advertising with Google AdMob
+5.1 Description of the service
+In the free version of the app, ads are displayed via “Google AdMob”.
+Provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (“Google”).
+
+Google may process various data, for example:
+
+advertising ID of the device
+
+IP address
+
+device information (device model, operating system, language, app version)
+
+usage data related to ad display (e.g. frequency, clicks).
+
+Google uses these data to deliver and analyse advertisements.
+
+5.2 Personalised / non‑personalised ads & consent (EU/EEA)
+For users in the European Economic Area (EEA) and the UK, Google’s EU User Consent Policy applies.
+As the app provider, I must inform users and, where necessary, obtain their consent for personalised ads and for the use of certain identifiers (e.g. advertising ID).
+
+The app therefore shows an appropriate notice or consent dialog where required by law.
+You can withdraw your consent at any time with effect for the future, e.g. in the consent dialog or via your device’s ad/privacy settings.
+
+The legal basis is Art. 6 (1) (a) GDPR (consent) for personalised advertising and Art. 6 (1) (f) GDPR (legitimate interest) for non‑personalised ads and strictly necessary technical processing.
+
+5.3 Data transfers to third countries
+When using Google AdMob, data may be transferred to third countries, in particular the USA.
+Google relies, among other things, on the EU‑US Data Privacy Framework and/or on Standard Contractual Clauses under Art. 46 GDPR to ensure an adequate level of data protection.
+
+For more information, please see Google’s Privacy Policy:
+https://policies.google.com/privacy
+
+6. Donations / in‑app purchase to remove ads
+You can permanently remove ads by making a donation or in‑app purchase.
+The payment is processed by the respective app store provider (e.g. Google Play Store).
+
+During payment, personal data (e.g. billing and payment information) is processed by the store provider.
+I only receive the information necessary to technically unlock the ad‑free version (e.g. a transaction ID), but not your full payment details.
+
+The legal basis is Art. 6 (1) (b) GDPR (performance of a contract).
+Please also refer to the privacy policy of the respective store provider (e.g. Google: https://policies.google.com/privacy).[7]
+​
+
+7. Crash reports / log data
+If you send system crash reports provided by your operating system to the store provider, technical data about crashes may be collected and made available to me in anonymised or pseudonymised form.
+I use these data only to fix errors and improve the stability of the app.
+
+The legal basis is Art. 6 (1) (f) GDPR (legitimate interest in a stable and secure app).
+
+8. Storage period
+Locally stored app data remain on your device until you delete them or uninstall the app.
+Data processed by third parties (e.g. Scryfall, Google, app store providers) are subject to their respective retention and deletion periods.
+
+9. Your rights
+Under the GDPR you have, in particular, the following rights:
+
+right of access (Art. 15 GDPR)
+
+right to rectification (Art. 16 GDPR)
+
+right to erasure (Art. 17 GDPR)
+
+right to restriction of processing (Art. 18 GDPR)
+
+right to data portability (Art. 20 GDPR)
+
+right to object (Art. 21 GDPR).
+
+You can exercise these rights at any time by contacting me using the contact details above.
+You also have the right to lodge a complaint with a data protection supervisory authority (Art. 77 GDPR).
+
+10. Changes to this Privacy Policy
+I may update this Privacy Policy from time to time if the app, third‑party services or the legal situation change.
+The version published in the app and/or in the store listing at the time of your use shall apply.
