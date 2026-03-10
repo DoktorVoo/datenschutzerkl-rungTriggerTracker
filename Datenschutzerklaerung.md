@@ -122,8 +122,6 @@ Es gilt jeweils die zum Zeitpunkt der Nutzung aktuelle, in der App bzw. im Store
 English 
 
 
-
-Privacy Policy – “Trigger Tracker”
 Privacy Policy for the app “Trigger Tracker”
 1. Controller
 The controller responsible for data processing in this app under the GDPR is:
