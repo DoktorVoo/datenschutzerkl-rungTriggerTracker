@@ -123,7 +123,7 @@ English Version
 
 Hier ist eine schlanke englische Privacy Policy auf Basis deines deutschen Textes (wieder: keine Rechtsberatung, nur Muster).
 
-Privacy Policy for the app “[Name of the App]”
+Privacy Policy for the app “Trigger Tracker”
 1. Controller
 The controller responsible for data processing in this app under the GDPR is:
 
