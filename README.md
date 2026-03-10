@@ -1,0 +1,2 @@
+# datenschutzerkl-rungTriggerTracker
+Datenschutzerklärung
